@@ -1,2 +1,2 @@
 # TreeOperations
-Tree merge
+Merging Binary search trees.
